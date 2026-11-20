@@ -52,7 +52,9 @@ Thumbs.db
 desktop.ini
 
 # ==========================================
-# Local Database / Docker Volumes
+# Local Database / Docker Volumes / Uploads
 # ==========================================
 mongodb-data/
 *.sqlite
+server/uploads/
+server/data_store/
